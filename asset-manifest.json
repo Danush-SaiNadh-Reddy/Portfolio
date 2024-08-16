@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Danush-SaiNadh-Reddy/Portfolio/static/css/main.a1bcf7c8.css",
-    "main.js": "/Danush-SaiNadh-Reddy/Portfolio/static/js/main.965fb5a2.js",
+    "main.js": "/Danush-SaiNadh-Reddy/Portfolio/static/js/main.e59a90b5.js",
     "index.html": "/Danush-SaiNadh-Reddy/Portfolio/index.html",
     "main.a1bcf7c8.css.map": "/Danush-SaiNadh-Reddy/Portfolio/static/css/main.a1bcf7c8.css.map",
-    "main.965fb5a2.js.map": "/Danush-SaiNadh-Reddy/Portfolio/static/js/main.965fb5a2.js.map"
+    "main.e59a90b5.js.map": "/Danush-SaiNadh-Reddy/Portfolio/static/js/main.e59a90b5.js.map"
   },
   "entrypoints": [
     "static/css/main.a1bcf7c8.css",
-    "static/js/main.965fb5a2.js"
+    "static/js/main.e59a90b5.js"
   ]
 }
