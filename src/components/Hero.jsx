@@ -14,7 +14,7 @@ const Hero = () => {
                     loop/>
                 </div> 
                 <p className='md:text-base text-sm font-semibold pt-2 text-gray-500'>I'm a student with a strong foundation in programming logic and leadership skills. Passionate about technologies and coding, I am eager to develop my communication skills, creativity, and knowledge</p>
-                <a href="/Portfolio/danush_sainadh_reddy_dumpa resume.pdf" download="resume.pdf" className='bg-[#00df9a] flex items-center justify-evenly text-black rounded-lg w-[180px] py-2 text-center font-medium mx-auto my-5 hover:cursor-pointer'>Download My CV <IoMdCloudDownload size={25}/></a> 
+                <a href="/Portfolio/resume.pdf" download="resume.pdf" className='bg-[#00df9a] flex items-center justify-evenly text-black rounded-lg w-[180px] py-2 text-center font-medium mx-auto my-5 hover:cursor-pointer'>Download My CV <IoMdCloudDownload size={25}/></a> 
                 
             </div>
 
